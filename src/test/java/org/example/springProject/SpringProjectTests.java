@@ -1,10 +1,10 @@
-package org.example.aulasnelio;
+package org.example.springProject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AulasNelioApplicationTests {
+class SpringProjectTests {
 
     @Test
     void contextLoads() {

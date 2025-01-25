@@ -1,13 +1,13 @@
-package org.example.aulasnelio;
+package org.example.springProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AulasNelioApplication {
+public class SpringProject {
 
     public static void main(String[] args) {
-        SpringApplication.run(AulasNelioApplication.class, args);
+        SpringApplication.run(SpringProject.class, args);
     }
 
 }
